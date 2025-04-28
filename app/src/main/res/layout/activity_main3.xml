@@ -23,5 +23,10 @@
         android:text="stash2"
         />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="出现bug 的位置"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
