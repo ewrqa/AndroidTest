@@ -4,24 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity3">
-
+    tools:context=".MainActivity4">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="修改一下这个分支dev"
+        android:text="dsfasdfsa"
         />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="stash1"
-        />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="stash2"
-        />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
