@@ -11,4 +11,10 @@
         android:text="dsfasdfsa"
         />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="兄弟我知道你是新来的我也想改"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
