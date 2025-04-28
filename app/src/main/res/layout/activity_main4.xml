@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="兄弟我知道你是新来的我也想改"
+        android:text="哦吼我是新来的小伙伴，兄弟我知道你是新来的我也想改，那我们一起改吧"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
