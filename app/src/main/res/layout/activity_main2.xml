@@ -12,6 +12,11 @@
       android:layout_height="match_parent"
       android:text="呀吼添加了一个功能ok"
       />
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:text="修改一下啦"
+      />
 
 
 
