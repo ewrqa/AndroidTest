@@ -15,7 +15,19 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:text="stash1"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="stash2"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:text="已修复  出现bug 的位置"
         />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
