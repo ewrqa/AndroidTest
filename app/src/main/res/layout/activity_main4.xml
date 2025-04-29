@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="测试使用rebase"
+        android:text="为了提交235"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
