@@ -22,5 +22,10 @@
         android:layout_height="match_parent"
         android:text="这次开发完为回滚做准备"
         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="为了提交"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
